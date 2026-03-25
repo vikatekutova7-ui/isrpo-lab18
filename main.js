@@ -115,25 +115,29 @@
 // let arr1 = [1, 2, 3];
 // let arr2 = [1, 2, 3];
 // console.log(arr1 === arr2);
-let a1 = 5;
-let b1 = 3;
-console.log("Сумма:", a1 + b1);
-console.log("Разность:", a1 - b1);
-console.log("Произведение:", a1 * b1);
-console.log("Деление:", a1 / b1);
-console.log("Обычное сообщение");
-console.warn("Предупреждение!");
-console.error("Ошибка!");
-console.info("Информация");
-let users = [
-    { name: "John", age: 30 },
-    { name: "Jane", age: 25 },
-];
-console.table(users);
-console.clear();
-let x1 = "10";
-let y1 = 2;
-console.log("Сумма:", x1 + y1);
-console.log("Разность:", x1 - y1);
-console.log("Произведение:", x1 * y1);
-console.log("Деление:", x1 / y1);
+// let a1 = 5;
+// let b1 = 3;
+// console.log("Сумма:", a1 + b1);
+// console.log("Разность:", a1 - b1);
+// console.log("Произведение:", a1 * b1);
+// console.log("Деление:", a1 / b1);
+// console.log("Обычное сообщение");
+// console.warn("Предупреждение!");
+// console.error("Ошибка!");
+// console.info("Информация");
+// let users = [
+//     { name: "John", age: 30 },
+//     { name: "Jane", age: 25 },
+// ];
+// console.table(users);
+// console.clear();
+// let x1 = "10";
+// let y1 = 2;
+// console.log("Сумма:", x1 + y1);
+// console.log("Разность:", x1 - y1);
+// console.log("Произведение:", x1 * y1);
+// console.log("Деление:", x1 / y1);
+let a2 = 6;
+let b2 = 4;
+console.log("Сумма:", a2 + b2);
+console.log("Произведение:", a2 * b2);
